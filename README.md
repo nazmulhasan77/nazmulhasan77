@@ -2,11 +2,11 @@
 
 <h1 align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6AD3F7&center=true&vCenter=true&width=900&height=100&lines=Hi+there%2C+I'm+Nazmul+Hasan+%F0%9F%91%8B;" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=6AD3F7&center=true&vCenter=true&width=900&height=100&lines=Hi+there%2C+I'm+Md+Nazmul+Hasan+%F0%9F%91%8B;" alt="Typing SVG" />
 
 
 </h1>
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
+<img align="right" alt="Coding" width="350" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 ## 🚀 About Me
 🎓 🎓 I'm pursuing a **BSc in Computer Science & Engineering (CSE)** at **Rajshahi University**.<br>
@@ -27,12 +27,12 @@
 <a href="https://codeforces.com/profile/nazmulhasan77" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="nazmulhasan77" height="30" width="40" />Codeforces</a>
 
 <div align="center">
-   <h1 align="center">Github Stats</h1>
+  <h1 align="center">GitHub Stats</h1>
   <a href="https://github.com/nazmulhasan77">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=nazmulhasan77&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmulhasan77&layout=compact&langs_count=6&theme=nightowl"/>
-
- </div>
+    <img height="150em" src="https://github-readme-stats.vercel.app/api?username=nazmulhasan77&show_icons=true&theme=nightowl&include_all_commits=true&count_private=true" />
+    <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nazmulhasan77&layout=compact&langs_count=6&theme=nightowl" />
+  </a>
+</div>
 
 
 <div align="center">
@@ -45,3 +45,5 @@
 ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=nazmulhasan77&theme=nightowl) ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=nazmulhasan77&theme=nightowl&utcOffset=6)
 
 </div>
+<h3 align="center">✨ Thanks for visiting my profile! ✨</h3>
+<h4 align="center">🌟 Have a great day! 🌟</h4>
